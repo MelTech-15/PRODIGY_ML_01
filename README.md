@@ -6,7 +6,7 @@ This model predicts the price of a house (`SalePrice`), based on the identified 
 
 ---
 
-## 📌 Project Overview .
+## 📌 Project Overview
 
 The aim of this project is to implement a clean data pipeline that loads raw real estate data, filters and renames relevant features, trains a `LinearRegression` model, evaluates its accuracy ($R^2$ and RMSE) against unseen test data, and provides a clear visual evaluation of the model's performance.
 
